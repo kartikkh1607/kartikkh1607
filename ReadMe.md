@@ -2,8 +2,8 @@
 
 B.Tech IT student at KIET (2028) building **GenAI applications** — RAG systems, LLM apps with structured outputs, and the evals to prove they work.
 
-🎯 Looking for **GenAI / Applied AI Engineer internships** (Summer 2027)
-🔨 Currently building an AI agent that reviews Terraform plans
+- 🎯 Looking for **GenAI / Applied AI Engineer internships** (Summer 2027)
+- 🔨 Currently building an AI agent that reviews Terraform plans
 
 ## Featured projects
 
@@ -29,9 +29,9 @@ Offline-first Android recipe app — MVVM, Hilt, Room, Retrofit, Coroutines/Flow
 
 ## Tech
 
-**AI / Backend:** Python, FastAPI, Pydantic, RAG, vector DBs (Qdrant), LLM APIs (Groq), evals
-**Cloud / DevOps:** AWS, Terraform
-**Also:** C++ (DSA), Kotlin + Jetpack Compose, React
+- **AI / Backend:** Python, FastAPI, Pydantic, RAG, vector DBs (Qdrant), LLM APIs (Groq), evals
+- **Cloud / DevOps:** AWS, Terraform
+- **Also:** C++ (DSA), Kotlin + Jetpack Compose, React
 
 **Certifications:** AWS AI Practitioner · AWS Cloud Practitioner · AWS CloudOps Engineer – Associate · AWS Data Engineer – Associate
 
